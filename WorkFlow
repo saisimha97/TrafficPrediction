@@ -1,0 +1,18 @@
+Steps to Execute:
+
+First we need to proprocess the data i.e (data cleaning, categorical features, missing values, normalization) for that use data_preprocessing.ipynb
+
+Second I implemented 3 differernt ML models:
+1. XGBoost (run training.ipynb till break point)
+2. Random Forest (run trainnig.ipynb after break point)
+3. Neural Network (Run NN.ipynb)
+
+Acquired Validation MAE of 624,584, 647 respectively
+
+Results:
+please check 
+
+1. test_dataset_result.csv (results using Random Forest)
+2. test_dataset_result_NN.csv (results using Neural Nets)
+
+
